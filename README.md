@@ -23,7 +23,7 @@ All data is synthetic and created for educational and portfolio purposes.
 - Imputed missing transaction amounts using the median.
 
 ## Project Status
-In progress — transaction analysis, customer spending patterns, visualisations, and business insights are being developed.
+In progress - transaction analysis, customer spending patterns, visualisations, and business insights are being developed.
 
 ## Objectives
 - Explore transaction patterns.
